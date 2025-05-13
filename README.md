@@ -5,7 +5,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaraujobusiness&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block">
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
