@@ -1,8 +1,6 @@
 ### Olá eu sou o Matheus Araujo 👨‍💻
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaraujobusiness&show_icons=true&theme=dracula)
+![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Tecnologias que utilizo no meu dia a dia
 
