@@ -11,7 +11,7 @@
 
 
 </div> <br>
-Estudante de Análise e Desenvolvimento de Sistemas na UNIFECAF, atualmente no 3º semestre, com foco no aprimoramento contínuo de competências em tecnologia e análise de dados. </>🧑‍💻
+Estudante de Análise e Desenvolvimento de Sistemas na UNIFECAF, atualmente no 5º semestre, com foco no aprimoramento contínuo de competências em tecnologia e análise de dados. </>🧑‍💻
 
 ## Contato
 
